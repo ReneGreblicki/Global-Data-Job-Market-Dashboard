@@ -110,58 +110,53 @@ The weighted result is presented as a five-star rating and responds to the activ
 
 ### 1. Market Overview
 
-![Market Overview](market_overview.png)
+![Market Overview](images/market_overview.png)
 
 The landing page summarizes market size, typical compensation and the most frequently advertised skills.
-
-![Market Overview](images/market_overview.png)
 
 Key findings:
 
 - Seniority produces a clear salary premium. Senior Data Scientists have the highest displayed median at **€137K**, compared with **€111K** for Data Scientists.
-- Senior Data Engineers earn **€128K**, compared with **€113K** for Data Engineers.
-- Senior Data Analysts earn **€98K**, compared with **€80K** for Data Analysts.
 - SQL and Python dominate advertised skill demand, appearing in **64%** and **63%** of skill-listed postings. AWS is a distant third at **24%**.
 
 ### 2. Market Conditions
 
-![Market Conditions](market_conditions.png)
+![Market Conditions](images/market_conditions.png)
 
 This page compares role demand, education requirements, remote work and reported-versus-annualized compensation.
 
-- Data Engineer leads the current role count at approximately **575K postings**, followed by Data Analyst at **550K** and Data Scientist at **462K**.
-- **67.49%** of postings mention a degree; **32.51%** do not.
-- Only **8%** of postings are marked as remote.
+- Data Engineer leads the current role count, followed by Data Analyst and Data Scientist.
+- **67.49%** of postings mention a degree; only **8%** of postings are marked as remote.
 - Annualized hourly salaries sit below directly reported annual salaries for every displayed role. These are different employer/posting samples, so the gap should not be interpreted as a like-for-like pay penalty.
-- The map shows posting concentration by country and supports geographic filtering across the dashboard.
+- The map shows posting concentration by country and supports geographic and industry filtering across the dashboard.
 
 ### 3. Skill Analysis
 
-![Skill Analysis](skill_analysis.png)
+![Skill Analysis](images/skill_analysis.png)
 
 This page connects skill intensity, demand and compensation.
 
 - Engineering roles advertise the broadest skill requirements: Senior Data Engineer postings average **6.8 skills**, Data Engineer **5.9**, and LM Engineer **5.1**.
-- Data Analyst and Business Analyst postings average **3.1** and **2.6 skills** respectively.
+- Data Analyst and Business Analyst roles require the fewest skills, averaging **3.1** and **2.6 skills** respectively.
 - More requested skills are generally associated with higher salaries, but seniority and role still matter: Senior Data Scientists earn the most despite listing fewer skills than Senior Data Engineers.
 - Specialized engineering skills command a premium. The displayed medians include **Scala €122K**, **Spark €118K**, **Hadoop €117K**, **AWS €115K** and **GCP €115K**, versus **SQL €102K**.
 - SQL and Python combine unusually high demand with solid salaries. Scarcer tools may pay more, but they apply to fewer vacancies.
 
 ### 4. Platforms & Hiring Trends
 
-![Platforms and Hiring Trends](platforms_and_hiring_trends.png)
+![Platforms and Hiring Trends](images/platforms_and_hiring_trends.png)
 
 This page separates posting volume, salary movement and platform quality.
 
 - Hiring volume fell sharply from early 2023 levels, briefly rebounded in early 2025 and then declined again.
 - Monthly median salary remained comparatively stable, generally around **€90K-€104K**, despite much larger changes in posting volume.
-- LinkedIn has the largest reach at approximately **447K postings**, followed by BeBee at **322K**.
-- The top-platform snapshot shows **7.1% salary disclosure**, **67% degree mention**, **4.4 skills per posting** and an overall platform rating of **4.0/5** under the displayed filters.
+- LinkedIn has the largest reach and the highest median advertised salaries, but offers low salary transparency **(5.8% compared to the average of 7.1% across all platforms)**
+- Snagajob **(38.5%)**, ZipRecruit **(20.4%)** and Indeed **(14.8%)** offer the highest salary transparency.
 - Salary comparisons for low-disclosure platforms require extra caution because their medians may be based on a small, non-representative subset.
 
 ### 5. Hiring Market Analysis
 
-![Hiring Market Analysis](hiring_market_analysis.png)
+![Hiring Market Analysis](images/hiring_market_analysis.png)
 
 This page isolates changes in hiring demand without treating partial-year 2026 as a complete year.
 
@@ -170,8 +165,8 @@ This page isolates changes in hiring demand without treating partial-year 2026 a
 - Postings declined from **729,895** in 2023 to **464,039** in 2025: **-265,856 (-36.4%)**.
 - 2024 produced the largest single-year contraction: **-280,406 postings (-38.4%)** versus 2023.
 - 2025 recovered modestly: **+14,550 postings (+3.2%)** versus 2024.
-- The largest displayed country declines are France (**-28.3K**), United States (**-27.6K**), Sudan (**-21.9K**), Germany (**-20.8K**) and Netherlands (**-14.7K**).
-- Displayed role declines are Data Scientist (**-49%**), Data Engineer (**-38%**), Data Analyst (**-30%**) and Business Analyst (**-28%**).
+- The largest country declines are France (**-28.3K**), United States (**-27.6K**), Sudan (**-21.9K**), Germany (**-20.8K**) and Netherlands (**-14.7K**).
+- Data Scientists (**-49%**) and Data Engineer (**-38%**) experienced the largest demand declines.
 - Major platform declines include ZipRecruiter (**-65%**), Jobrapido.com (**-63%**) and LinkedIn (**-62%**).
 
 #### 2025 to 2026 comparable period
@@ -180,16 +175,15 @@ The selector compares **1 January-31 July 2025** with **1 January-31 July 2026**
 
 ### 6. Industry Dive
 
-![Industry Dive](industry_dive.png)
+![Industry Dive](images/industry_dive.png)
 
 The final dashboard page examines validated, industry-classified direct employers.
 
-- Industry-classified postings have a median salary equal to **108% of the overall market median** under the displayed filters.
-- They also show heavier requirements: **73% degree mention**, **5.0 skills per job** and **7% remote work**.
+- Industry-classified postings have a median salary equal to **108% of the overall market median**, but also show heavier requirements **(73% degree mention**, **5.0 skills per job)**.
 - The highest displayed industry medians are Retail & E-commerce (**€135K**), Media & Entertainment (**€128K**) and Financial Services (**€118K**).
 - Technology accounts for the largest displayed share of classified postings (**26%**) but not the highest median salary.
-- Python and SQL lead classified-employer skill demand at approximately **163K** and **158K postings**. Spark and Java are less common but have higher displayed medians.
-- The 2023-2025 trend shows that the largest classified industries did not move uniformly; the page makes the differences between Technology, Consulting & Professional Services and Financial Services visible.
+- Python and SQL lead classified-employer skill demand at approximately while Spark and Java are less common but have higher displayed medians.
+- Technology, Consulting & Professional Services and Financial Services experienced the largest hiring declines between 2023 and 2025.
 
 ## Key conclusions
 
