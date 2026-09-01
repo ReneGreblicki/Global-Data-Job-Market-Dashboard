@@ -38,7 +38,7 @@ The current dashboard uses the following standardized role groups:
 - Business Analyst
 - LM Engineer
 
-Cloud Engineer and Software Engineer are outside the current dashboard scope. The earlier role-scope note that limited the project to only Data Analyst, Data Scientist and Data Engineer is therefore superseded by this README.
+Cloud Engineer and Software Engineer are outside the current dashboard scope.
 
 ### Employer scope
 
@@ -114,12 +114,7 @@ The weighted result is presented as a five-star rating and responds to the activ
 
 The landing page summarizes market size, typical compensation and the most frequently advertised skills.
 
-| KPI | Current value |
-|---|---:|
-| Job postings | 1.76M |
-| Average skills per posting | 4.4 |
-| Median reported yearly salary | €101K |
-| Median hourly salary | €41.18 |
+![Market Overview](images/market_overview.png)
 
 Key findings:
 
