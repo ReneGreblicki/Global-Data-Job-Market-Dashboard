@@ -165,9 +165,10 @@ This page isolates changes in hiring demand without treating partial-year 2026 a
 - Postings declined from **729,895** in 2023 to **464,039** in 2025: **-265,856 (-36.4%)**.
 - 2024 produced the largest single-year contraction: **-280,406 postings (-38.4%)** versus 2023.
 - 2025 recovered modestly: **+14,550 postings (+3.2%)** versus 2024.
-- The largest country declines are France (**-28.3K**), United States (**-27.6K**), Sudan (**-21.9K**), Germany (**-20.8K**) and Netherlands (**-14.7K**).
+- Postings declined by **61% (-185,795)** when comparing periods January-July 2026 to January-July 2025.
+- The largest country declines between 2023 and 2025 are France (**-28.3K**) and United States (**-27.6K**).
+- The largest country declines between 2025 and 2026 are United States (**-54K**) and United Kingdom (**-15.9K**).
 - Data Scientists (**-49%**) and Data Engineer (**-38%**) experienced the largest demand declines.
-- Major platform declines include ZipRecruiter (**-65%**), Jobrapido.com (**-63%**) and LinkedIn (**-62%**).
 
 #### 2025 to 2026 comparable period
 
