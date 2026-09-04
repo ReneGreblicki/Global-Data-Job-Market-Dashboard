@@ -218,6 +218,19 @@ The final dashboard page examines validated, industry-classified direct employer
 - Quantify employer concentration to determine whether hiring demand is broad-based or dominated by a small number of organizations.
 - Add applicant counts, hiring outcomes or time-to-fill data to distinguish advertised demand from candidate opportunity.
 
+## Additional Reading
+
+The following reports provide additional context on changing employer demand, emerging skills and the longer-term outlook for data-related careers:
+* **[The Lightcast Digital Skills Outlook 2024](https://lightcast.io/resources/research/the-lightcast-digital-skills-outlook-2024)**
+  Examines employer demand for digital skills across 15 international labour markets using job-posting data. It explores emerging skills, geographic differences and the changing requirements of technical and non-technical occupations.
+* **[The Lightcast Global AI Skills Outlook](https://lightcast.io/resources/research/the-lightcast-global-ai-skills-outlook)**
+  Analyses international demand for AI skills across occupations, locations and salary levels. It provides further context on how AI is reshaping data-focused roles, including Data Scientists, Data Engineers and Analytics Managers.
+* **[The Future of Jobs Report 2025 — World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)**
+  Presents the employment expectations of more than 1,000 major employers across 55 economies. It provides a longer-term outlook on occupational growth, workforce transformation and the increasing importance of AI, big-data and technological skills through 2030.
+
+These sources complement the report’s analysis but measure different aspects of the labour market. Lightcast primarily analyses observed job advertisements and employer skill requirements, while the World Economic Forum focuses on employers’ expectations and workforce plans. Their findings should therefore be treated as contextual evidence rather than direct validation of the results presented in this report.
+
+
 ## Industry Dive: company-industry enrichment
 
 ### Why a separate enrichment pipeline was needed
